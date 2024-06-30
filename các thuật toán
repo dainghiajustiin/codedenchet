@@ -1,1 +1,43 @@
+Xử lí xâu:
++ Hashing (Done)
++ Trie
++ KMP
++ Z - function
++ Suffix array
 
+Đồ thị:
++ DFS/BFS (Done)
++ Cây DFS
++ Cây khung nhỏ nhất
++ Đường đi ngắn nhất
++ Chu trình Euler
++ Sắp xếp Topo
+
+Quy hoạch động:
++ Dp basic (Done)
++ Dp string
++ Kĩ thuật bao lồi
++ Dp tree
++ Dp advanced
+
+Hình học:
++ Tính toán
++ Thuật đường quét
++ Bao lồi
+
+Toán:
++ Xác suất
++ Định lí Wilson
++ Hàm Mobius
++ Lý thuyết trò chơi
++ Phi hàm Euler
++ Nghịch đảo modulo
++ Tổ hợp
++ Bao hàm - loại trừ
+
+Kĩ năng + Tối ưu:
++ Nén số
++ Chặt tam phân
++ Nhân ma trận
++ Chia căn
++ Local search
